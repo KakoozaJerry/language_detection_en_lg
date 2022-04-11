@@ -13,3 +13,8 @@ You can find the csv file for either the larger or smaller vocab in the data fol
 ## Origin of data used
 
 [A parallel corpus dataset](https://zenodo.org/record/5864560)
+
+
+## Origin of notebook used 
+
+[notebook on kaggle](https://www.kaggle.com/code/basilb2s/language-detection-using-nlp)
