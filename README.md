@@ -9,3 +9,7 @@ The large vocab csv file needs alot of RAM to compute , therefore I propose usin
 The notebook identified here was run using google colab 
 
 You can find the csv file for either the larger or smaller vocab in the data folder
+
+#Origin of data used
+
+[A parallel corpus dataset](https://zenodo.org/record/5864560)
