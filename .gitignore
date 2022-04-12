@@ -1,1 +1,3 @@
 .DS_Store
+/active_test
+__pycache__/
